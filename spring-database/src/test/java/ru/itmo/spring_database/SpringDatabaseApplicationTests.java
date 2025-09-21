@@ -1,10 +1,10 @@
-package ru.itmo.javaadvanced.lesson1;
+package ru.itmo.spring_database;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationRunnerTests {
+class SpringDatabaseApplicationTests {
 
 	@Test
 	void contextLoads() {
